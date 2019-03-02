@@ -7,13 +7,18 @@
 取材自以下資源
 --------
 #2 Android WorkManager Tutorial - Using OneTimeWorkRequest                                                                 
-https://www.youtube.com/watch?v=hKOKZ0RRgBE
+https://www.youtube.com/watch?v=hKOKZ0RRgBE                                   
+
+注意
+--------
+如果使用HTC-U11型號的手機, 會產生SystemUI未正常終止的crush
                           
 預覽
 --------
 <p align="left">
   <img src="https://i.imgur.com/HHgVyjK.png" width="230"/>
   <img src="https://i.imgur.com/qA67VwH.png" width="230"/>
+  <img src="https://i.imgur.com/1pC8Var.png" width="230"/>
 </p> 
 
 備註
